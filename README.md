@@ -10,5 +10,5 @@ Am Projekt arbeiten
 - Jessica Schmid (schmij30@students.zhaw.ch)
 
 ## Projektidee
-Wir untersuchen, bei welchen Länder von 1990 bis 2023 die Säuglingssterblichkeit (Kinder <1 Jahr) am meisten zugenommen und wo sie meisten abgenommen hat. Zudem recherchieren wir mögliche Gründe dafür.
+Wir untersuchen, bei welchen Länder von 1990 bis 2023 die Säuglingssterblichkeit (Tode Kinder <1 Jahr pro 100 Lebendgeburten) am meisten abgenommen und wo am wenigsten abgenommen oder sogar zugenommen hat. Zudem recherchieren wir mögliche Gründe dafür.
 
